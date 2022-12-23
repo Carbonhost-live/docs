@@ -1,16 +1,10 @@
-# Nextra Docs Template 
+# Carbon Host Docs
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
-
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
-
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
+This is the official documentation repositary for [Carbon Host](https://Carbonhost.live). Built using Nextra
 
 ## Quick Start
 
-Click the button to clone this repository and deploy it on Vercel:
-
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
+Just modify any of the files and make a pull request
 
 ## Local Development
 
